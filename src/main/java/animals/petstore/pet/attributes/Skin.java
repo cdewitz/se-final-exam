@@ -5,5 +5,4 @@ package animals.petstore.pet.attributes;
  */
 public enum Skin {
     FUR, HAIR, FEATHERS, SCALES, UNKNOWN;
-
 }
